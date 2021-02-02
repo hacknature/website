@@ -16,8 +16,8 @@
           {{ .Content }}
         </ion-col>
       </ion-row>
-      {{ range first 1 (where .Pages "Section" "lessons").ByDate.Reverse }}
-      <ion-row><ion-col><h2>Latest Video</h2></ion-col></ion-row>
+      {{ range first 1 (where .Pages "Section" "projecten").ByDate.Reverse }}
+      <ion-row><ion-col><h2>Laatste Projecten</h2></ion-col></ion-row>
       <ion-row><ion-col>
         <ion-card>
             {{ with .Params.twitter}}
@@ -32,9 +32,9 @@
         </ion-card>
       </ion-col></ion-row>
       {{ end }}
-      <ion-row><ion-col><h2>Latest Lessons</h2></ion-col></ion-row>
+      <ion-row><ion-col><h2>Laatste Nieuws</h2></ion-col></ion-row>
       <ion-row justify-content-center>
-        {{ range first 2 (where .Pages "Section" "lessons").ByDate.Reverse }}
+        {{ range first 2 (where .Pages "Section" "nieuws").ByDate.Reverse }}
         {{partial "card-link" . }}
         {{ end }}
       </ion-row>

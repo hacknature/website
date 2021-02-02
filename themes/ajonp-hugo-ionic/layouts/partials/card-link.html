@@ -13,7 +13,4 @@
         {{ .Params.description }}
       </p>
     </ion-card-content>
-    {{ if isset .Params "images" }} {{ range first 1 .Params.images }}
-    <ion-img src="{{ . | absURL }}" alt="Hero Image"></ion-img>
-    {{ end }} {{ end }}
   </ion-card>

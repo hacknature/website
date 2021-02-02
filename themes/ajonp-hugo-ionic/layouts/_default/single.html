@@ -14,9 +14,6 @@
             <p>{{ .Description }}</p>
             {{ end }} <time class="post-time">{{ partial "post/meta" . }}</time>
           </ion-card-content>
-          {{ with.Params.images }} {{ range first 1 . }}
-          <figure><img src="{{ . | absURL }}" alt="Hero Image" /></figure>
-          {{ end }} {{ end }}
         </ion-card>
       </ion-row>
       <ion-row>
