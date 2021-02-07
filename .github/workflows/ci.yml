@@ -1,0 +1,32 @@
+# This is a basic workflow to help you get started with Actions
+
+
+name: CI
+on:
+  # Triggers the workflow on push or pull request events but only for the master branch
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+jobs: 
+    build:
+      runs-on: ubuntu-latest
+      container: pandoc/latex
+      steps:
+      - uses: actions/checkout@v2
+      - name: Install mustache (to update the date)
+        run:  apk add ruby && gem install mustache
+      - name: creates output
+        run:  sh ./build.sh
+      - name: Pushes to another repository
+        id: push_directory
+        uses: HackNature/website@master
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-directory: ‘public'
+          destination-github-username: ‘hacknature’
+          destination-repository-name: ‘websiteprod’
+          user-email: info@hacknature.org
+          commit-message: See ORIGIN_COMMIT
+     
