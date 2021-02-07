@@ -13,12 +13,12 @@ jobs:
       with:
         personal_token: ${{ secrets.PERSONAL_TOKEN }}
         src_path: /public/
-        dst_path: /.
+        dst_path: /websiteprod/
         dst_owner: hacknature
         dst_repo_name: websiteprod
         dst_branch: master
         src_branch: master
-        src_wiki: true
+        src_wiki: false
         dst_wiki: false
         username: hacknature
         email: info@hacknature.org
