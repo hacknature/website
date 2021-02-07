@@ -12,8 +12,8 @@ jobs:
       uses: andstor/copycat-action@v3
       with:
         personal_token: ${{ secrets.PERSONAL_TOKEN }}
-        src_path: /public/
-        dst_path: /websiteprod/
+        src_path: public/
+        dst_path: websiteprod/
         dst_owner: hacknature
         dst_repo_name: websiteprod
         dst_branch: master
