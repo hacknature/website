@@ -24,7 +24,7 @@ jobs:
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       env:
-        github_token: ${{ secrets.API_TOKEN_GITHUB }}
+        github_token: ${{ secrets.ACTIONS_OF_DEPLOY }}
         external_repository: hacknature/websiteprod
         publish_branch: master
         publish_dir: /.
