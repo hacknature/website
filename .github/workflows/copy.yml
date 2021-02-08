@@ -12,7 +12,7 @@ jobs:
       uses: andstor/copycat-action@v3
       with:
         personal_token: ${{ secrets.PERSONAL_TOKEN }}
-        src_path: public/.
+        src_path: themes/ajonp-hugo-ionic/layouts/.
         dst_path: /.
         dst_owner: hacknature
         dst_repo_name: websiteprod
