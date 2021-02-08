@@ -26,7 +26,7 @@ pygmentsCodeFences = "true"
   github = "hacknature"
   twitter = "hacknature"
   youtube = "HackNature" #channelname
-  email = "info@hacknature.com"
+  email = "info@hacknature.org"
   images = []
   fb_app_id = "HackNature"
 
@@ -68,3 +68,8 @@ pygmentsCodeFences = "true"
     pre = "over hacknature"
     weight = 400
     url = "/over-hacknature/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
