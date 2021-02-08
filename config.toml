@@ -1,8 +1,8 @@
+baseURL = "https://hacknature.org"
 languageCode = "nl-NL"
 title = "Stichting HackNature"
 theme = "ajonp-hugo-ionic"
 description = "Officiële website van Stichting HackNature"
-baseurl = "https://hacknature.org"
 metadataformat = "yaml"
 canonifyurls = true
 disqusShortname = "HackNature"
