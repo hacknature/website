@@ -1,4 +1,6 @@
 baseURL = "https://hacknature.org"
+relativeURLs = true
+uglyURLs = true
 languageCode = "nl-NL"
 title = "Stichting HackNature"
 theme = "ajonp-hugo-ionic"
