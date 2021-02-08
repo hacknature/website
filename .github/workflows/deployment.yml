@@ -25,9 +25,8 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       env:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        EXTERNAL_REPOSITORY: hacknature/websiteprod
-        PUBLISH_BRANCH: master
-        PUBLISH_DIR: /.
+        external_repository: hacknature/websiteprod
+        publish_branch: master
+        publish_dir: /.
       with:
-        emptyCommits: false
-        commitMessage: ${{ github.event.head_commit.message }}
+        commit_message: ${{ github.event.head_commit.message }}
