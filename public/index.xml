@@ -1,21 +1,158 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Home on Stichting HackNature</title>
+    <link>https://hacknature.org/</link>
+    <description>Recent content in Home on Stichting HackNature</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright 2021 - HackNature</copyright>
+    <lastBuildDate>Mon, 01 Feb 2021 23:23:23 -0100</lastBuildDate><atom:link href="https://hacknature.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello R Markdown</title>
-      <link>http://example.org/post/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <title>Colofon</title>
+      <link>https://hacknature.org/colofon/</link>
+      <pubDate>Mon, 01 Feb 2021 23:23:23 -0100</pubDate>
       
-      <guid>http://example.org/post/2020-12-01-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>https://hacknature.org/colofon/</guid>
+      <description>Deze website is ontworpen en gebouwd door Roger Meijs en Erik Langhout.
+Voor opmerkingen of vragen kunt u contact opnemen via info@hacknature.org.
+Copyrighs De teksten, foto&amp;rsquo;s en afbeeldingen op deze website zijn auteursrechtelijk beschermd en mogen niet zonder voorafgaande toestemming worden gebruikt. Foto&amp;rsquo;s op de website zijn afkomstig uit het fotoarchief van Stichting HackNature en gemaakt door medewerkers van ARK, tenzij anders vermeld. Tekeningen zijn gemaakt door ARK tekenaar Jeroen Helmer.</description>
+    </item>
+    
+    <item>
+      <title>Disclaimer</title>
+      <link>https://hacknature.org/disclaimer/</link>
+      <pubDate>Mon, 01 Feb 2021 23:23:23 -0100</pubDate>
+      
+      <guid>https://hacknature.org/disclaimer/</guid>
+      <description>Deze website is met uiterste zorg samengesteld, maar Stichting HackNature kan niet garanderen dat deze website onjuiste of verouderde informatie bevat. Stichting HackNature aanvaardt geen aansprakelijkheid voor eventuele schade als gevolg van informatie op deze website.</description>
+    </item>
+    
+    <item>
+      <title>Projectenoverzicht</title>
+      <link>https://hacknature.org/projectenoverzicht/</link>
+      <pubDate>Mon, 01 Feb 2021 23:23:23 +0100</pubDate>
+      
+      <guid>https://hacknature.org/projectenoverzicht/</guid>
+      <description>Projectenoverzicht samengesteld door Stichting HackNature</description>
+    </item>
+    
+    <item>
+      <title>Privacyverklaring</title>
+      <link>https://hacknature.org/privacyverklaring/</link>
+      <pubDate>Mon, 01 Feb 2021 23:23:23 -0100</pubDate>
+      
+      <guid>https://hacknature.org/privacyverklaring/</guid>
+      <description>Stichting HackNature respecteert de privacy van bezoekers van deze website. Persoonsgegevens die tijdens een bezoek aan deze website worden verstrekt aan Stichting HackNature, kunnen in een bestand worden verzameld en opgeslagen. De verwerking van persoonsgegevens en andere data vindt plaats conform de Wet bescherming persoonsgegevens. In deze Privacyverklaring zijn de overwegingen hieromtrent vastgelegd.
+Doeleinden van de gegevensverwerking Uw persoonsgegevens worden door Stichting HackNature verwerkt ten behoeve van:
+U te informeren over en te benaderen voor activiteiten van Stichting HackNature Het voldoen aan wettelijke verplichtingen</description>
+    </item>
+    
+    <item>
+      <title>Nieuwsoverzicht</title>
+      <link>https://hacknature.org/nieuwsoverzicht/</link>
+      <pubDate>Mon, 01 Feb 2021 23:23:23 +0100</pubDate>
+      
+      <guid>https://hacknature.org/nieuwsoverzicht/</guid>
+      <description>Nieuwsoverzicht samengesteld door Stichting HackNature</description>
+    </item>
+    
+    <item>
+      <title>XML Sitemap</title>
+      <link>https://hacknature.org/xml-sitemap/</link>
+      <pubDate>Wed, 03 Feb 2021 23:23:23 +0100</pubDate>
+      
+      <guid>https://hacknature.org/xml-sitemap/</guid>
+      <description>De XML Sitemap staat hier</description>
+    </item>
+    
+    <item>
+      <title>Contactpagina</title>
+      <link>https://hacknature.org/contact/</link>
+      <pubDate>Mon, 01 Feb 2021 23:23:23 -0100</pubDate>
+      
+      <guid>https://hacknature.org/contact/</guid>
+      <description>Contactgegevens Contactgegevens van Stichting HackNature
+Website: https://hacknature.org/
+E-mail: info@hacknature.org
+KvK-nummer: 81755775
+Bankgegevens: XXXX tnv Stichting HackNature
+Contactformulier [Contactformulier volgt hier]</description>
+    </item>
+    
+    <item>
+      <title>Derde Nieuwsbericht</title>
+      <link>https://hacknature.org/nieuws/nieuwsbericht-20210203/</link>
+      <pubDate>Wed, 03 Feb 2021 23:23:23 +0100</pubDate>
+      
+      <guid>https://hacknature.org/nieuws/nieuwsbericht-20210203/</guid>
+      <description>Nieuwsbericht 3 Derde Nieuwsbericht: Derde YouTube beschikbaar: &amp;ldquo;5 Incredible Eco-Friendly Innovations To Save The Earth&amp;rdquo;
+  </description>
+    </item>
+    
+    <item>
+      <title>Derde Project</title>
+      <link>https://hacknature.org/projecten/project-20210203/</link>
+      <pubDate>Wed, 03 Feb 2021 23:23:23 +0100</pubDate>
+      
+      <guid>https://hacknature.org/projecten/project-20210203/</guid>
+      <description>Project 3 Derde Project van Stichting HackNature</description>
+    </item>
+    
+    <item>
+      <title>Tweede Nieuwsbericht</title>
+      <link>https://hacknature.org/nieuws/nieuwsbericht-20210202/</link>
+      <pubDate>Tue, 02 Feb 2021 23:23:23 +0100</pubDate>
+      
+      <guid>https://hacknature.org/nieuws/nieuwsbericht-20210202/</guid>
+      <description>Nieuwsbericht 2 Tweede Nieuwsbericht: Tweede YouTube beschikbaar: 8 Useful Technologies Inspired by Nature
+  </description>
+    </item>
+    
+    <item>
+      <title>Tweede Project</title>
+      <link>https://hacknature.org/projecten/project-20210202/</link>
+      <pubDate>Tue, 02 Feb 2021 23:23:23 +0100</pubDate>
+      
+      <guid>https://hacknature.org/projecten/project-20210202/</guid>
+      <description>Project 2 Tweede Project van Stichting HackNature</description>
+    </item>
+    
+    <item>
+      <title>Pagina niet gevonden</title>
+      <link>https://hacknature.org/404/</link>
+      <pubDate>Mon, 01 Feb 2021 23:23:23 -0100</pubDate>
+      
+      <guid>https://hacknature.org/404/</guid>
+      <description>Ga terug naar de Homepagina</description>
+    </item>
+    
+    <item>
+      <title>Eerste Nieuwsbericht</title>
+      <link>https://hacknature.org/nieuws/nieuwsbericht-20210201/</link>
+      <pubDate>Mon, 01 Feb 2021 23:23:23 +0100</pubDate>
+      
+      <guid>https://hacknature.org/nieuws/nieuwsbericht-20210201/</guid>
+      <description>Nieuwsbericht 1 Eerste Nieuwsbericht: Eerste YouTube beschikbaar: &amp;ldquo;How technology becomes nature&amp;rdquo;
+  </description>
+    </item>
+    
+    <item>
+      <title>Eerste Project</title>
+      <link>https://hacknature.org/projecten/project-20210201/</link>
+      <pubDate>Mon, 01 Feb 2021 23:23:23 +0100</pubDate>
+      
+      <guid>https://hacknature.org/projecten/project-20210201/</guid>
+      <description>Project 1 Eerste Project van Stichting HackNature</description>
+    </item>
+    
+    <item>
+      <title>Oops, ben je offline?</title>
+      <link>https://hacknature.org/offline/</link>
+      <pubDate>Sat, 02 Jan 2021 19:36:33 -0500</pubDate>
+      
+      <guid>https://hacknature.org/offline/</guid>
+      <description>Je lijkt offline te zijn. Controleer je internet verbinding.
+Weer verbonden? Klik dan hier om haar de Hompage te gaan</description>
     </item>
     
   </channel>

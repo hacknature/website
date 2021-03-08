@@ -1,15 +1,13 @@
-+++
-date = "2021-02-03T23:23:23+01:00"
-title = "Colofon"
-tags = []
-categories = []
-draft = false
-description = "Colofon van Stichting HackNature"
-weight = 10
-images = []
-+++
-
-# Colofon
+---
+title: "Colofon"
+description: "Colofon voor de website van Stichting HackNature"
+date: 2021-02-01T23:23:23-01:00
+draft: false
+menu: "footer"
+weight: 10
+tags: []
+categories: []
+---
 
 Deze website is ontworpen en gebouwd door Roger Meijs en Erik Langhout.
 

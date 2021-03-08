@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-<html lang="nl-NL" class="md">
+<html lang="" class="md">
   <head>
-    <meta name="generator" content="Hugo 0.80.0" />
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -13,13 +12,13 @@
 
     
 
-  <meta name="author" content="Stichting HackNature">
+  <meta name="author" content="">
 
 
     <meta property="og:title" content="404 Page not found" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://hacknature.org/404.html" />
+<meta property="og:url" content="https://hacknature.org/404.html" /><meta property="og:site_name" content="Stichting HackNature" />
 
 
     
@@ -29,10 +28,11 @@
 
     
 
-<meta property="fb:app_id" content="HackNature">
+<meta property="fb:app_id" content="">
 
 
 
+    
     
     
     
@@ -44,64 +44,64 @@
     
 
     
-<link rel="apple-touch-icon" sizes="57x57" href="https://hacknature.org/icons/apple-icon-57x57.png" />
-<link rel="apple-touch-icon" sizes="60x60" href="https://hacknature.org/icons/apple-icon-60x60.png" />
-<link rel="apple-touch-icon" sizes="72x72" href="https://hacknature.org/icons/apple-icon-72x72.png" />
-<link rel="apple-touch-icon" sizes="76x76" href="https://hacknature.org/icons/apple-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="57x57" href="/icons/apple-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="/icons/apple-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/icons/apple-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/icons/apple-icon-76x76.png" />
 <link
   rel="apple-touch-icon"
   sizes="114x114"
-  href="https://hacknature.org/icons/apple-icon-114x114.png"
+  href="/icons/apple-icon-114x114.png"
 />
 <link
   rel="apple-touch-icon"
   sizes="120x120"
-  href="https://hacknature.org/icons/apple-icon-120x120.png"
+  href="/icons/apple-icon-120x120.png"
 />
 <link
   rel="apple-touch-icon"
   sizes="144x144"
-  href="https://hacknature.org/icons/apple-icon-144x144.png"
+  href="/icons/apple-icon-144x144.png"
 />
 <link
   rel="apple-touch-icon"
   sizes="152x152"
-  href="https://hacknature.org/icons/apple-icon-152x152.png"
+  href="/icons/apple-icon-152x152.png"
 />
 <link
   rel="apple-touch-icon"
   sizes="180x180"
-  href="https://hacknature.org/icons/apple-icon-180x180.png"
+  href="/icons/apple-icon-180x180.png"
 />
 <link
   rel="icon"
   type="image/png"
   sizes="192x192"
-  href="https://hacknature.org/icons/android-icon-192x192.png"
+  href="/icons/android-icon-192x192.png"
 />
 <link
   rel="icon"
   type="image/png"
   sizes="32x32"
-  href="https://hacknature.org/icons/favicon-32x32.png"
+  href="/icons/favicon-32x32.png"
 />
 <link
   rel="icon"
   type="image/png"
   sizes="96x96"
-  href="https://hacknature.org/icons/favicon-96x96.png"
+  href="/icons/favicon-96x96.png"
 />
 <link
   rel="icon"
   type="image/png"
   sizes="16x16"
-  href="https://hacknature.org/icons/favicon-16x16.png"
+  href="/icons/favicon-16x16.png"
 />
-<link rel="manifest" href="https://hacknature.org/manifest.json" />
+<link rel="manifest" href="/manifest.json" />
 <meta name="msapplication-TileColor" content="#ffffff" />
 <meta name="msapplication-TileImage" content="/icons/ms-icon-144x144.png" />
 
-<meta name="theme-color" content="#3C2D4E" />
+<meta name="theme-color" content="#209744" />
 
 
 <link
@@ -188,22 +188,6 @@
 </script>
 
  
-
-<link
-  rel="preload"
-  href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch.min.css"
-  as="style"
-  onload="this.onload=null;this.rel='stylesheet'"
-/>
-<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch.min.css"/></noscript>
-<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4" defer></script>
-<link
-  rel="preload"
-  href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch-theme-algolia.min.css"
-  as="style"
-  onload="this.onload=null;this.rel='stylesheet'"
-/>
-<noscript><link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch-theme-algolia.min.css"/></noscript>
  
 
  
@@ -336,7 +320,7 @@
 <ion-page class="ion-page" main>
     <div class="error-container">
         <h1>404</h1>
-        <p class="return">Take me back <a href="https://hacknature.org/">Home</a></p>
+        <p class="return">Take me back <a href="/">Home</a></p>
       </div>
       </ion-page>
 
@@ -349,110 +333,6 @@
     
 
 
-<script>
-  
-    window.addEventListener("load", function() {
-      const search = instantsearch({
-        appId: "9MHX858I6J",
-        apiKey: "291922a689e72070abb0892721c8d3cb",
-        indexName: "HackNature",
-        
-        searchFunction(helper) {
-          if (helper.state.query === '') {
-            document.getElementById("algolia-powered").hidden = true;
-            document.getElementById("refinement-list").hidden = true;
-            document.getElementById("hits").hidden = true;
-            return;
-          }else{
-            var headOffset = document.getElementsByTagName("ion-page")[0].getElementsByTagName("ion-header")[0].offsetHeight;
-            var pageOffset = document.getElementsByTagName("ion-page")[0].offsetWidth;
-
-            var p = document.getElementById("algolia-powered");
-            p.hidden = false;
-            p.setAttribute("style", 
-            `
-            position:absolute;
-            top:${headOffset}px;
-            background: #fff;
-            box-shadow: 0 10px 20px rgba(0,0,0,.16);
-            width: ${pageOffset - 40}px;
-            z-index: 100;
-            padding: 5px;
-            margin-left: 20px;`);
-
-            
-
-            var h = document.getElementById("hits");
-            h.setAttribute("style", 
-            `position:absolute; 
-            top:${p.offsetHeight + headOffset}px;
-            background: #fff;
-            border-top-left-radius: 0px;
-            border-top-right-radius: 0px;
-            border-bottom-right-radius: 6px;
-            border-bottom-left-radius: 6px;
-            box-shadow: 0 10px 20px rgba(0,0,0,.16);
-            width: ${pageOffset - 40}px;
-            z-index: 100;
-            padding: 5px;
-            margin-left: 20px;
-            `);
-            h.hidden = false;
-          }
-      
-          helper.search();
-        }
-      });
-      search.addWidget(
-        instantsearch.widgets.refinementList({
-          container: '#refinement-list',
-          attributeName: 'categories',
-          autoHideContainer: true,
-          collapsible: { collapsed: false },
-        })
-      );
-      search.addWidget(
-        instantsearch.widgets.searchBox({
-          container: '#search-box',
-          placeholder: 'Doorzoek de website',
-          reset: true,
-          loadingIndicator: true,
-        })
-      );
-      search.addWidget(
-        instantsearch.widgets.hits({
-          container: "#hits",
-          templates: {
-            empty: 'No results',
-            item: ' \u003cion-item href={{permalink}}\u003e{{{_highlightResult.title.value}}}\u003c\/ion-item\u003e '
-          }
-        })
-      );
-      search.start();
-    });
-
-    
-    window.addEventListener("load", async () => {
-      if(!localStorage.getItem('ajonp-cookie-okay')){
-      const toastController = document.querySelector('ion-toast-controller');
-      await toastController.componentOnReady();
-
-      const toast = await toastController.create({
-        message: 'We use cookies.',
-        animated: true,
-        showCloseButton: true,
-        position: 'bottom',
-        closeButtonText: 'OK',
-        color: 'warning'
-      });
-      toast.addEventListener("ionToastDidDismiss", async () => {
-        localStorage.setItem('ajonp-cookie-okay', true);
-      });
-      return await toast.present();
-    }
-    });
-  </script>
-  
   
 <script>
   
@@ -581,7 +461,7 @@
         { themeVariable: '--ion-color-step-850', value: ' #d9d9d9'},
         { themeVariable: '--ion-color-step-900', value: ' #e6e6e6'},
         { themeVariable: '--ion-color-step-950', value: ' #f2f2f2'},
-        { themeVariable: '--ion-color-primary', value: ' #3C2D4E'},
+        { themeVariable: '--ion-color-primary', value: ' #209744'},
         { themeVariable: '--ion-color-primary-rgb', value: ' 60,45,78'},
         { themeVariable: '--ion-color-primary-contrast', value: ' #ffffff'},
         { themeVariable: '--ion-color-primary-contrast-rgb', value: '255255255'},

@@ -1,77 +1,17 @@
-baseURL = "https://hacknature.org"
-relativeURLs = true
-uglyURLs = true
-languageCode = "nl-NL"
+baseURL = "https://hacknature.org/"
 title = "Stichting HackNature"
 theme = "ajonp-hugo-ionic"
-description = "Officiële website van Stichting HackNature"
-metadataformat = "yaml"
-canonifyurls = true
-disqusShortname = "HackNature"
-enableGitInfo = "true"
-pygmentsUseClasses = "true"
-pygmentsCodeFences = "true"
+copyright = "Copyright 2021 - HackNature"
 
-[author]
-  name = "ajonp"
-  homepage = "https://ajonp.com"
+defaultContentLanguage = "nl"
+defaultContentLanguageInSubdir = false
 
-[taxonomies]
-  authors = "authors"
-  tag = "tags"
-  category = "categories"
-
-[params]
-  toc = "true"
-  RSSLink = "/index.xml"
-  author = "Stichting HackNature"
-  github = "hacknature"
-  twitter = "hacknature"
-  youtube = "HackNature" #channelname
-  email = "info@hacknature.org"
-  images = []
-  fb_app_id = "HackNature"
-
-  # Search Only
-  [params.algolia]
-    appId = "9MHX858I6J"
-    apiKey = "291922a689e72070abb0892721c8d3cb"
-    indexName = "HackNature"
-  [params.home]
-    image = ""
-    title = "Welkom bij HackNature"
-    subtitle = "Innovaties, techniek en ICT gecombineerd totgoed doordachte toepassingen om de natuurlijke leefomgeving te verbeteren"
-    showGithub = true
-    showTwitter = true
-    showYoutube = true
-
-[[menu.main]]
-    name = "Home"
-    pre = "home"
-    weight = -1
-    url = "/"
-[[menu.main]]
-    name = "Projecten"
-    pre = "projecten"
-    weight = 100
-    url = "/projecten/"
-[[menu.main]]
-    name = "Nieuws"
-    pre = "nieuws"
-    weight = 200
-    url = "/nieuws/"
-[[menu.main]]
-    name = "Contact"
-    pre = "contact"
-    weight = 300
-    url = "/contact/"
-[[menu.main]]
-    name = "Over HackNature"
-    pre = "over hacknature"
-    weight = 400
-    url = "/over-hacknature/"
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[languages]
+  [languages.nl]
+    languageName = "Nederlands"
+    title = "Stichting HackNature"
+    weight = 1
+  [languages.en]
+    languageName = "Engels"
+    title = "HackNature Foundation"
+    weight = 2

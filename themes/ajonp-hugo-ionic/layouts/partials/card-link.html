@@ -1,16 +1,17 @@
   <ion-card style="max-width: 400px;cursor:pointer" class="card-link" onclick="location.href='{{ .Permalink }}'">
     <ion-item>
       <ion-label color="dark">
-        <p
-          style="text-overflow: ellipsis;white-space: nowrap;overflow: hidden;font-weight: bold;"
-        >
+        <p style="text-overflow: ellipsis;white-space: nowrap;overflow: hidden;font-weight: bold;">
           {{.Title}}
         </p>
       </ion-label>
     </ion-item>
     <ion-card-content>
       <p style="text-overflow: ellipsis;white-space: nowrap;overflow: hidden;">
-        {{ .Params.description }}
+        <a href="{{ .Permalink }}">{{ .Params.title | humanize | title }}</a>
       </p>
     </ion-card-content>
+    {{ if isset .Params "images" }} {{ range first 1 .Params.images }}
+    <ion-img src="{{ . | absURL }}" alt="Afbeelding"></ion-img>
+    {{ end }} {{ end }}
   </ion-card>

@@ -1,11 +1,11 @@
 <ion-toolbar>
   ©2021 Stichting HackNature
   <ion-buttons slot="end">
-    {{ with .Site.GetPage "/terms" }}
-    <ion-button href="/terms">Terms</ion-button>
+    {{ with .Site.GetPage "/disclaimer" }}
+    <ion-button href="/disclaimer">Disclaimer</ion-button>
     {{ end }}
-    {{ with .Site.GetPage "/privacy" }}
-    <ion-button href="/privacy">Privacy</ion-button>
+    {{ with .Site.GetPage "/privacyverklaring" }}
+    <ion-button href="/privacyverklaring">Privacyverklaring</ion-button>
     {{ end }}
   </ion-buttons>
 </ion-toolbar>

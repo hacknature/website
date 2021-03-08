@@ -1,4 +1,16 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-</urlset>
+  <sitemap>
+    <loc>https://hacknature.org/nl/sitemap.xml</loc>
+    
+      <lastmod>2021-02-03T23:23:23+01:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://hacknature.org/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>

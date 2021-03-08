@@ -1,15 +1,15 @@
-+++
-date = "2021-02-01T23:23:23+01:00"
-title = "Contactgegevens"
-tags = []
-categories = []
-draft = false
-description = "Contactgegevens van Stichting HackNature"
-weight = 10
-images = []
-+++
+---
+title: "Contactpagina"
+description: "Contactpagina van de website van Stichting HackNature"
+date: 2021-02-01T23:23:23-01:00
+draft: false
+menu: "main"
+weight: 100
+tags: []
+categories: []
+---
 
-# Contactgegevens
+## Contactgegevens
 
 Contactgegevens van Stichting HackNature
 
@@ -21,6 +21,7 @@ KvK-nummer: 81755775
 
 Bankgegevens: XXXX tnv Stichting HackNature
 
+## Contactformulier
 
 [Contactformulier volgt hier]
 

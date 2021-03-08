@@ -1,15 +1,14 @@
-+++
-date = "2021-02-03T23:23:23+01:00"
-title = "Privacyverklaring"
-tags = []
-categories = []
-draft = false
-description = "Privacyverklaring van Stichting HackNature"
-weight = 10
-images = []
-+++
-
-# Privacyverklaring
+---
+title: "Privacyverklaring"
+description: "Privacyverklaring voor de website van Stichting HackNature"
+date: 2021-02-01T23:23:23-01:00
+draft: false
+url: "/privacyverklaring/"
+menu: "footer"
+weight: 30
+tags: []
+categories: []
+---
 
 Stichting HackNature respecteert de privacy van bezoekers van deze website. Persoonsgegevens die tijdens een bezoek aan deze website worden verstrekt aan Stichting HackNature, kunnen in een bestand worden verzameld en opgeslagen. De verwerking van persoonsgegevens en andere data vindt plaats conform de Wet bescherming persoonsgegevens. In deze Privacyverklaring zijn de overwegingen hieromtrent vastgelegd.
 
