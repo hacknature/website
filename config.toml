@@ -1,7 +1,7 @@
 baseURL = "https://hacknature.org/"
 title = "Stichting HackNature"
 theme = "ajonp-hugo-ionic"
-copyright = "Copyright 2021 - HackNature"
+copyright = "Copyright 2023 - HackNature"
 
 defaultContentLanguage = "nl"
 defaultContentLanguageInSubdir = false
@@ -15,3 +15,7 @@ defaultContentLanguageInSubdir = false
     languageName = "Engels"
     title = "HackNature Foundation"
     weight = 2
+
+[security]
+  [security.funcs]
+    getenv = ["^HUGO_","^WC_","^NODE_ENV"]
