@@ -1,4 +1,8 @@
 baseURL = "https://hacknature.org/"
+publishDir = "public"
+canonifyurls = true
+relativeURLs = true
+
 title = "Stichting HackNature"
 theme = "ajonp-hugo-ionic"
 copyright = "Copyright 2023 - HackNature"
@@ -19,3 +23,4 @@ defaultContentLanguageInSubdir = false
 [security]
   [security.funcs]
     getenv = ["^HUGO_","^WC_","^NODE_ENV"]
+    

@@ -80,13 +80,23 @@ Contactformulier [Contactformulier volgt hier]</description>
     </item>
     
     <item>
-      <title>Vierde Project</title>
-      <link>https://hacknature.org/projecten/project-20210308/</link>
+      <title>Domotica tbv Klimaatverandering en Natuurbehoud</title>
+      <link>https://hacknature.org/projecten/project-0004-domotica-in-relatie-tot-klimaatverandering-en-natuurbehoud-in-de-tuin/</link>
       <pubDate>Mon, 08 Mar 2021 19:53:23 +0100</pubDate>
       
-      <guid>https://hacknature.org/projecten/project-20210308/</guid>
-      <description>Project 4 Vierde Project van Stichting HackNature
-Sub asdsadasdasd</description>
+      <guid>https://hacknature.org/projecten/project-0004-domotica-in-relatie-tot-klimaatverandering-en-natuurbehoud-in-de-tuin/</guid>
+      <description>Domotica tbv Klimaatverandering en Natuurbehoud Klimaatverandering is een groeiende zorg voor onze planeet, en het behoud van de natuurlijke omgeving is van het grootste belang. In dit verband biedt domotica, ofwel geautomatiseerde systemen voor woningbeheer, waardevolle mogelijkheden om positieve veranderingen teweeg te brengen in onze tuinen en buitenruimtes.
+Een van de meest cruciale aspecten van domotica is de controle over energieverbruik, wat direct van invloed is op de uitstoot van broeikasgassen.</description>
+    </item>
+    
+    <item>
+      <title>Het Meten van Luchtkwaliteit Binnen en Buiten</title>
+      <link>https://hacknature.org/projecten/project-0005-het-meten-van-luchtkwaliteit-binnen-en-buiten-met-sensoren-voor-menselijke-gezondheid-en-impact-op-de-natuur/</link>
+      <pubDate>Mon, 08 Mar 2021 19:53:23 +0100</pubDate>
+      
+      <guid>https://hacknature.org/projecten/project-0005-het-meten-van-luchtkwaliteit-binnen-en-buiten-met-sensoren-voor-menselijke-gezondheid-en-impact-op-de-natuur/</guid>
+      <description>Het Meten van Luchtkwaliteit Binnen en Buiten Onze luchtkwaliteit is van essentieel belang voor zowel menselijke gezondheid als het behoud van de natuurlijke wereld. Door het gebruik van geavanceerde luchtkwaliteitssensoren, zowel binnen als buiten, kunnen we waardevolle gegevens verzamelen die ons helpen bij het begrijpen van de impact van luchtvervuiling op zowel mensen als het milieu.
+Binnenshuis brengen we aanzienlijk veel tijd door, en de kwaliteit van de lucht die we inademen is van groot belang voor onze gezondheid.</description>
     </item>
     
     <item>
@@ -99,12 +109,22 @@ Sub asdsadasdasd</description>
     </item>
     
     <item>
-      <title>Derde Project</title>
-      <link>https://hacknature.org/projecten/project-20210203/</link>
+      <title>Innovatieve Capacitieve Grondwatermonitoring</title>
+      <link>https://hacknature.org/projecten/project-0003-innovatieve-capacitieve-grondwatermonitoring-met-lorawan-in-de-strijd-tegen-klimaatveranderin/</link>
       <pubDate>Wed, 03 Feb 2021 23:23:23 +0100</pubDate>
       
-      <guid>https://hacknature.org/projecten/project-20210203/</guid>
-      <description>Project 3 Derde Project van Stichting HackNature</description>
+      <guid>https://hacknature.org/projecten/project-0003-innovatieve-capacitieve-grondwatermonitoring-met-lorawan-in-de-strijd-tegen-klimaatveranderin/</guid>
+      <description>Innovatieve Capacitieve Grondwatermonitoring De effecten van klimaatverandering zijn wereldwijd zichtbaar, en een van de cruciale aspecten van dit probleem is de beschikbaarheid en duurzaamheid van onze watervoorraden. Grondwater is een kostbare bron die vaak onzichtbaar is, maar van essentieel belang voor drinkwater, landbouw, en de gezondheid van ecosystemen. Innovatieve capacitive grondwatermonitoring met LoRaWAN (Long Range Wide Area Network) biedt een krachtige tool om deze belangrijke hulpbron te beschermen en te beheren in de strijd tegen klimaatverandering.</description>
+    </item>
+    
+    <item>
+      <title>Innovatieve Sensoren voor Bijenkorven</title>
+      <link>https://hacknature.org/projecten/project-0002-innovatieve-sensoren-voor-het-monitoren-van-de-gezondheid-van-bijenkorven-in-relatie-tot-menselijke-stressoren-en-klimaatverandering/</link>
+      <pubDate>Tue, 02 Feb 2021 23:23:23 +0100</pubDate>
+      
+      <guid>https://hacknature.org/projecten/project-0002-innovatieve-sensoren-voor-het-monitoren-van-de-gezondheid-van-bijenkorven-in-relatie-tot-menselijke-stressoren-en-klimaatverandering/</guid>
+      <description>Innovatieve Sensoren voor Bijenkorven Bijen spelen een cruciale rol in ons ecosysteem door bestuiving van gewassen mogelijk te maken, wat essentieel is voor voedselproductie en biodiversiteit. Echter, bijen worden geconfronteerd met tal van uitdagingen, waaronder de effecten van menselijke stressoren en klimaatverandering. Gelukkig bieden innovatieve sensoren een waardevolle manier om de gezondheid van bijenkorven te monitoren en deze bedreigingen aan te pakken.
+Menselijke stressoren, zoals pesticiden en verstedelijking, kunnen nadelige gevolgen hebben voor bijenpopulaties.</description>
     </item>
     
     <item>
@@ -114,15 +134,6 @@ Sub asdsadasdasd</description>
       
       <guid>https://hacknature.org/nieuws/nieuwsbericht-20210202/</guid>
       <description>Nieuwsbericht 2 Tweede Nieuwsbericht: Tweede YouTube beschikbaar: 8 Useful Technologies Inspired by Nature</description>
-    </item>
-    
-    <item>
-      <title>Tweede Project</title>
-      <link>https://hacknature.org/projecten/project-20210202/</link>
-      <pubDate>Tue, 02 Feb 2021 23:23:23 +0100</pubDate>
-      
-      <guid>https://hacknature.org/projecten/project-20210202/</guid>
-      <description>Project 2 Tweede Project van Stichting HackNature</description>
     </item>
     
     <item>
@@ -144,12 +155,14 @@ Sub asdsadasdasd</description>
     </item>
     
     <item>
-      <title>Eerste Project</title>
-      <link>https://hacknature.org/projecten/project-20210201/</link>
+      <title>Innovatieve Vleermuiskast</title>
+      <link>https://hacknature.org/projecten/project-0001-innovatieve-vleermuiskast-monitoring-en-behoud-in-relatie-tot-huisrenovatie-en-isolatie/</link>
       <pubDate>Mon, 01 Feb 2021 23:23:23 +0100</pubDate>
       
-      <guid>https://hacknature.org/projecten/project-20210201/</guid>
-      <description>Project 1 Eerste Project van Stichting HackNature</description>
+      <guid>https://hacknature.org/projecten/project-0001-innovatieve-vleermuiskast-monitoring-en-behoud-in-relatie-tot-huisrenovatie-en-isolatie/</guid>
+      <description>Innovatieve Vleermuiskast Innovatieve Vleermuiskast Monitoring en Behoud in Relatie tot Huisrenovatie en Isolatie
+Vleermuizen zijn fascinerende wezens die een belangrijke rol spelen in ons ecosysteem. Ze helpen bij de bestrijding van insectenplagen en dragen bij aan de biodiversiteit. Echter, de habitat van vleermuizen wordt bedreigd door veranderingen in ons stedelijke landschap en renovatieprojecten. Gelukkig kunnen innovatieve vleermuiskasten monitoring en behoud bevorderen in relatie tot huisrenovatie en isolatie.
+Bij huisrenovaties komt het isoleren van gebouwen vaak voor om energie-efficiëntie te verbeteren.</description>
     </item>
     
     <item>
