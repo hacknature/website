@@ -1,10 +1,12 @@
 ---
 title: "Innovatieve Sensoren voor Bijenkorven"
 description: "Innovatieve Sensoren voor het Monitoren van de Gezondheid van Bijenkorven in Relatie tot Menselijke Stressoren en Klimaatverandering"
-date: 2021-02-02T23:23:23+01:00
+date: 2021-12-02T20:13:11+01:00
 draft: false
-tags: []
-categories: []
+tags: [Bijenkorven,Bijenpopulaties,Bijenhouders,Imkers,Pesticiden,Verstedelijking,voedselvoorziening]
+categories: [Bijen]
+imageURL: "/images/project-innovatieve-sensoren-voor-bijenkorven.png"
+imageTitle: "Innovatieve Sensoren voor Bijenkorven"
 ---
 
 # Innovatieve Sensoren voor Bijenkorven

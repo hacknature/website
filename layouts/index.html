@@ -1,0 +1,50 @@
+{{ define "header"}} {{ partial "header" .}} {{ end }} {{ define "main"}}
+<ion-page class="ion-page" main>
+    {{ partial "page-header" . }}
+  <ion-content padding>
+      {{ if isset $.Site.Params "home" }}
+        <ion-card>
+          {{with $.Site.Params.home.image }}
+          <ion-img src="{{ . }}" alt="Home Banner"></ion-img>
+          {{ end }}
+          {{ partial "site-social-card-buttons" . }}
+        </ion-card>
+      {{ end }}
+    <ion-grid>
+      <ion-row>
+        <ion-col>
+          {{ .Content }}
+        </ion-col>
+      </ion-row>
+      <ion-row><ion-col><h2>Laatste nieuws</h2></ion-col></ion-row>
+      <ion-row justify-content-center>
+        {{ range first 1 (where .Site.RegularPages.ByTitle "Section" "nieuws").ByDate.Reverse }}
+        {{partial "card-link" . }}
+        {{ end }}
+      </ion-row>
+      <ion-row><ion-col><h2>Laatste projecten</h2></ion-col></ion-row>
+      <ion-row justify-content-center>
+        {{ range first 5 (where .Site.RegularPages.ByTitle "Section" "projecten").ByDate.Reverse }}
+        {{partial "card-link" . }}
+        <ion-card-content>
+          <a href="{{ .Permalink }}">
+            {{ if .Params.imageURL }}
+            <img src="{{ .Params.imageURL }}" title="{{ .Params.imageTitle }}"/>
+            {{ else }}
+            <img src="{{ .Site.Params.placeholderImageURL }}"
+                 {{ if .Params.imageTitle }}
+                 title="{{ .Site.Params.imageTitle }}"
+                 {{ else }}
+                 title="{{ .Site.Params.placeholderImageTitle }}"
+                 {{ end }}
+            />
+            {{ end }}
+          </a>
+        </ion-card-content>
+        {{ end }}
+      </ion-row>
+    </ion-grid>
+    {{ partial "footer_home" .}}
+  </ion-content>
+</ion-page>
+{{ end }}

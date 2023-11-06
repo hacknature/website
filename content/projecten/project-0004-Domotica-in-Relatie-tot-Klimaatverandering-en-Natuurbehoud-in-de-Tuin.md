@@ -1,10 +1,12 @@
 ---
 title: "Domotica tbv Klimaatverandering en Natuurbehoud"
 description: "Domotica in Relatie tot Klimaatverandering en Natuurbehoud in de Tuin"
-date: 2021-03-08T19:53:23+01:00
+date: 2022-12-08T19:53:23+01:00
 draft: false
-tags: []
-categories: []
+tags: [Domotica,Energieverbruik,Regenwaterbeheer,Lichtvervuiling,Duurzaamheid,Klimaatverandering,Natuurbehoud]
+categories: [Domotica]
+imageURL: "/images/project-domotica-tbv-klimaatverandering-en-natuurbehoud.png"
+imageTitle: "Domotica tbv Klimaatverandering en Natuurbehoud"
 ---
 
 # Domotica tbv Klimaatverandering en Natuurbehoud

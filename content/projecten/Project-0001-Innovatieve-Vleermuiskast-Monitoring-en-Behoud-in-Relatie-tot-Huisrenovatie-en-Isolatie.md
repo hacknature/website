@@ -1,10 +1,12 @@
 ---
 title: "Innovatieve Vleermuiskast"
 description: "Innovatieve Vleermuiskast Monitoring en Behoud in Relatie tot Huisrenovatie en Isolatie"
-date: 2021-02-01T23:23:23+01:00
+date: 2021-02-06T16:42:12+01:00
 draft: false
-tags: []
-categories: []
+tags: [Vleermuiskast,Monitoring,Huisrenovatie,Isolatie]
+categories: [Vleermuizen]
+imageURL: "/images/project-innovatieve-vleermuiskast.png"
+imageTitle: "Innovatieve Vleermuiskast"
 ---
 
 # Innovatieve Vleermuiskast

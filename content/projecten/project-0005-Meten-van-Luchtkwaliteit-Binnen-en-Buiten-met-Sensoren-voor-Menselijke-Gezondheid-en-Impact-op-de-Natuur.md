@@ -1,13 +1,15 @@
 ---
-title: "Het Meten van Luchtkwaliteit Binnen en Buiten"
-description: "Het Meten van Luchtkwaliteit Binnen en Buiten met Sensoren voor Menselijke Gezondheid en Impact op de Natuur"
-date: 2021-03-08T19:53:23+01:00
+title: "Meten van Luchtkwaliteit Binnen en Buiten"
+description: "Meten van Luchtkwaliteit Binnen en Buiten met Sensoren voor Menselijke Gezondheid en Impact op de Natuur"
+date: 2023-06-08T19:53:23+01:00
 draft: false
-tags: []
-categories: []
+tags: [Luchtkwaliteitssensoren,Gezondheid,Ventilatie,Luchtreiniging,Luchtvervuiling,Gezondheidsrisico,Fijnstof,Koolmonoxide,Kooldioxide]
+categories: [Luchtkwaliteit]
+imageURL: "/images/project-meten-van-luchtkwaliteit-binnen-en-buiten.png"
+imageTitle: "Meten van Luchtkwaliteit Binnen en Buiten"
 ---
 
-# Het Meten van Luchtkwaliteit Binnen en Buiten
+# Meten van Luchtkwaliteit Binnen en Buiten
 
 Onze luchtkwaliteit is van essentieel belang voor zowel menselijke gezondheid als het behoud van de natuurlijke wereld. Door het gebruik van geavanceerde luchtkwaliteitssensoren, zowel binnen als buiten, kunnen we waardevolle gegevens verzamelen die ons helpen bij het begrijpen van de impact van luchtvervuiling op zowel mensen als het milieu.
 

@@ -1,10 +1,12 @@
 ---
 title: "Innovatieve Capacitieve Grondwatermonitoring"
 description: "Innovatieve Capacitieve Grondwatermonitoring met LoRaWAN in de Strijd tegen Klimaatverandering"
-date: 2021-02-03T23:23:23+01:00
+date: 2022-02-03T18:06:27+01:00
 draft: false
-tags: []
-categories: []
+tags: [Grondwatermonitoring,klimaatverandering,Grondwater,Waterverbruik,Irrigatie]
+categories: [Waterbeheer]
+imageURL: "/images/project-innovatieve-capacitieve-grondwatermonitoring.png"
+imageTitle: "Innovatieve Capacitieve Grondwatermonitoring"
 ---
 
 # Innovatieve Capacitieve Grondwatermonitoring

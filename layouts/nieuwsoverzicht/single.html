@@ -1,5 +1,4 @@
 {{ define "header"}} {{ partial "header" .}} {{ end }} {{ define "main"}}
-{{/*  {{ template "_internal/schema.html" . }} */}}
 <ion-page class="ion-page" main>
     {{ partial "page-header" . }}
   <ion-content padding>
@@ -17,4 +16,7 @@
         </ion-card>
       </ion-col></ion-row>
       {{ end }}
+    </ion-grid>
+  </ion-content>
+</ion-page>
 {{ end }}

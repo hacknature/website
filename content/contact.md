@@ -23,5 +23,5 @@ Bankgegevens: XXXX tnv Stichting HackNature
 
 ## Contactformulier
 
-[Contactformulier volgt hier]
+[Contactformulier volgt later]
 

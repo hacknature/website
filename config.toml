@@ -10,6 +10,10 @@ copyright = "Copyright 2023 - HackNature"
 defaultContentLanguage = "nl"
 defaultContentLanguageInSubdir = false
 
+[Params]
+placeholderImageURL = "/images/placeholder.png"
+placeholderImageTitle = "Placeholder"
+
 [languages]
   [languages.nl]
     languageName = "Nederlands"
@@ -23,4 +27,3 @@ defaultContentLanguageInSubdir = false
 [security]
   [security.funcs]
     getenv = ["^HUGO_","^WC_","^NODE_ENV"]
-    
