@@ -3,168 +3,168 @@
   
     
         <url>
-            <loc>https://hacknature.org/en/colofon/</loc>
+            <loc>/en/colofon/</loc>
             <lastmod>2021-02-01T23:23:23-01:00</lastmod>
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="https://hacknature.org/colofon/"
+                        href="/colofon/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://hacknature.org/en/colofon/"
+                        href="/en/colofon/"
                         />
         </url>
     
   
     
         <url>
-            <loc>https://hacknature.org/en/</loc>
+            <loc>/en/</loc>
             <lastmod>2021-02-01T23:23:23-01:00</lastmod>
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="https://hacknature.org/"
+                        href="/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://hacknature.org/en/"
+                        href="/en/"
                         />
         </url>
     
   
     
         <url>
-            <loc>https://hacknature.org/en/disclaimer/</loc>
+            <loc>/en/disclaimer/</loc>
             <lastmod>2021-02-01T23:23:23-01:00</lastmod>
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="https://hacknature.org/disclaimer/"
+                        href="/disclaimer/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://hacknature.org/en/disclaimer/"
+                        href="/en/disclaimer/"
                         />
         </url>
     
   
     
         <url>
-            <loc>https://hacknature.org/en/privacy-statement/</loc>
+            <loc>/en/privacy-statement/</loc>
             <lastmod>2021-02-01T23:23:23-01:00</lastmod>
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="https://hacknature.org/privacyverklaring/"
+                        href="/privacyverklaring/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://hacknature.org/en/privacy-statement/"
+                        href="/en/privacy-statement/"
                         />
         </url>
     
   
     
         <url>
-            <loc>https://hacknature.org/en/xml-sitemap/</loc>
+            <loc>/en/xml-sitemap/</loc>
             <lastmod>2021-02-03T23:23:23+01:00</lastmod>
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="https://hacknature.org/xml-sitemap/"
+                        href="/xml-sitemap/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://hacknature.org/en/xml-sitemap/"
+                        href="/en/xml-sitemap/"
                         />
         </url>
     
   
     
         <url>
-            <loc>https://hacknature.org/en/contact/</loc>
+            <loc>/en/contact/</loc>
             <lastmod>2021-02-01T23:23:23-01:00</lastmod>
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="https://hacknature.org/contact/"
+                        href="/contact/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://hacknature.org/en/contact/"
+                        href="/en/contact/"
                         />
         </url>
     
   
     
         <url>
-            <loc>https://hacknature.org/en/404/</loc>
+            <loc>/en/404/</loc>
             <lastmod>2021-02-01T23:23:23-01:00</lastmod>
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="https://hacknature.org/404/"
+                        href="/404/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://hacknature.org/en/404/"
+                        href="/en/404/"
                         />
         </url>
     
   
     
         <url>
-            <loc>https://hacknature.org/en/offline/</loc>
+            <loc>/en/offline/</loc>
             <lastmod>2021-01-02T19:36:33-05:00</lastmod>
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="https://hacknature.org/offline/"
+                        href="/offline/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://hacknature.org/en/offline/"
+                        href="/en/offline/"
                         />
         </url>
     
   
     
         <url>
-            <loc>https://hacknature.org/en/categories/</loc>
+            <loc>/en/categories/</loc>
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="https://hacknature.org/categories/"
+                        href="/categories/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://hacknature.org/en/categories/"
+                        href="/en/categories/"
                         />
         </url>
     
   
     
         <url>
-            <loc>https://hacknature.org/en/tags/</loc>
+            <loc>/en/tags/</loc>
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="https://hacknature.org/tags/"
+                        href="/tags/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://hacknature.org/en/tags/"
+                        href="/en/tags/"
                         />
         </url>
     

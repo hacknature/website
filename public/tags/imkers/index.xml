@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Imkers on Stichting HackNature</title>
-    <link>https://hacknature.org/tags/imkers/</link>
+    <link>/tags/imkers/</link>
     <description>Recent content in Imkers on Stichting HackNature</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2023 - HackNature</copyright>
-    <lastBuildDate>Thu, 02 Dec 2021 20:13:11 +0100</lastBuildDate><atom:link href="https://hacknature.org/tags/imkers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Dec 2021 20:13:11 +0100</lastBuildDate><atom:link href="/tags/imkers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Innovatieve Sensoren voor Bijenkorven</title>
-      <link>https://hacknature.org/projecten/project-0002-innovatieve-sensoren-voor-het-monitoren-van-de-gezondheid-van-bijenkorven-in-relatie-tot-menselijke-stressoren-en-klimaatverandering/</link>
+      <link>/projecten/project-0002-innovatieve-sensoren-voor-het-monitoren-van-de-gezondheid-van-bijenkorven-in-relatie-tot-menselijke-stressoren-en-klimaatverandering/</link>
       <pubDate>Thu, 02 Dec 2021 20:13:11 +0100</pubDate>
       
-      <guid>https://hacknature.org/projecten/project-0002-innovatieve-sensoren-voor-het-monitoren-van-de-gezondheid-van-bijenkorven-in-relatie-tot-menselijke-stressoren-en-klimaatverandering/</guid>
+      <guid>/projecten/project-0002-innovatieve-sensoren-voor-het-monitoren-van-de-gezondheid-van-bijenkorven-in-relatie-tot-menselijke-stressoren-en-klimaatverandering/</guid>
       <description>Innovatieve Sensoren voor Bijenkorven Bijen spelen een cruciale rol in ons ecosysteem door bestuiving van gewassen mogelijk te maken, wat essentieel is voor voedselproductie en biodiversiteit. Echter, bijen worden geconfronteerd met tal van uitdagingen, waaronder de effecten van menselijke stressoren en klimaatverandering. Gelukkig bieden innovatieve sensoren een waardevolle manier om de gezondheid van bijenkorven te monitoren en deze bedreigingen aan te pakken.
 Menselijke stressoren, zoals pesticiden en verstedelijking, kunnen nadelige gevolgen hebben voor bijenpopulaties.</description>
     </item>

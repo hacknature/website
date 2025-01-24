@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on HackNature Foundation</title>
-    <link>https://hacknature.org/en/</link>
+    <link>/en/</link>
     <description>Recent content in Home on HackNature Foundation</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2023 - HackNature</copyright>
-    <lastBuildDate>Mon, 01 Feb 2021 23:23:23 -0100</lastBuildDate><atom:link href="https://hacknature.org/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Feb 2021 23:23:23 -0100</lastBuildDate><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Colofon</title>
-      <link>https://hacknature.org/en/colofon/</link>
+      <link>/en/colofon/</link>
       <pubDate>Mon, 01 Feb 2021 23:23:23 -0100</pubDate>
       
-      <guid>https://hacknature.org/en/colofon/</guid>
+      <guid>/en/colofon/</guid>
       <description>This website was designed and built by Roger Meijs and Erik Langhout.
 For comments or questions, please contact us at info@hacknature.org.
 Copyrighs The texts, photos and images on this website are protected by copyright and may not be used without prior permission. Photos on the website come from the photo archive of the HackNature Foundation and taken by ARK employees, unless stated otherwise. Drawings were made by ARK draftsman Jeroen Helmer.</description>
@@ -20,38 +20,38 @@ Copyrighs The texts, photos and images on this website are protected by copyrigh
     
     <item>
       <title>Disclaimer</title>
-      <link>https://hacknature.org/en/disclaimer/</link>
+      <link>/en/disclaimer/</link>
       <pubDate>Mon, 01 Feb 2021 23:23:23 -0100</pubDate>
       
-      <guid>https://hacknature.org/en/disclaimer/</guid>
+      <guid>/en/disclaimer/</guid>
       <description>This website has been compiled with the utmost care, but Stichting HackNature cannot guarantee that this website contains incorrect or outdated information. HackNature Foundation accepts no liability for any damage resulting from information on this website.</description>
     </item>
     
     <item>
       <title>Privacy Statement</title>
-      <link>https://hacknature.org/en/privacy-statement/</link>
+      <link>/en/privacy-statement/</link>
       <pubDate>Mon, 01 Feb 2021 23:23:23 -0100</pubDate>
       
-      <guid>https://hacknature.org/en/privacy-statement/</guid>
+      <guid>/en/privacy-statement/</guid>
       <description>The HackNature Foundation respects the privacy of visitors to this website. Personal data provided to the HackNature Foundation during a visit to this website can be collected and stored in a file. The processing of personal data and other data takes place in accordance with the Personal Data Protection Act. This Privacy Statement sets out the considerations in this regard.
 Purposes of data processing Your personal data will be processed by Stichting HackNature for:</description>
     </item>
     
     <item>
       <title>XML Sitemap</title>
-      <link>https://hacknature.org/en/xml-sitemap/</link>
+      <link>/en/xml-sitemap/</link>
       <pubDate>Wed, 03 Feb 2021 23:23:23 +0100</pubDate>
       
-      <guid>https://hacknature.org/en/xml-sitemap/</guid>
+      <guid>/en/xml-sitemap/</guid>
       <description>The XML sitemap is here</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://hacknature.org/en/contact/</link>
+      <link>/en/contact/</link>
       <pubDate>Mon, 01 Feb 2021 23:23:23 -0100</pubDate>
       
-      <guid>https://hacknature.org/en/contact/</guid>
+      <guid>/en/contact/</guid>
       <description>Contact information Contact information of the HackNature Foundation
 Website: https://hacknature.org/en/
 Email: info@hacknature.org
@@ -62,19 +62,19 @@ Contact form [Contact form follows here]</description>
     
     <item>
       <title>Page not found</title>
-      <link>https://hacknature.org/en/404/</link>
+      <link>/en/404/</link>
       <pubDate>Mon, 01 Feb 2021 23:23:23 -0100</pubDate>
       
-      <guid>https://hacknature.org/en/404/</guid>
+      <guid>/en/404/</guid>
       <description>Return to the Homepage</description>
     </item>
     
     <item>
       <title>Oops, are you offline?</title>
-      <link>https://hacknature.org/en/offline/</link>
+      <link>/en/offline/</link>
       <pubDate>Sat, 02 Jan 2021 19:36:33 -0500</pubDate>
       
-      <guid>https://hacknature.org/en/offline/</guid>
+      <guid>/en/offline/</guid>
       <description>You appear to be offline. Check your internet connection.
 Connected again? [Then click here to go the Hompage] (/en/)</description>
     </item>
