@@ -22,7 +22,7 @@ jobs:
     - name: Build site
       run: hugo --minify
 
-    - name: Deploy to Nginx Server via SSH
+    - name: Deploy to Nginx Server via SCP
       uses: appleboy/scp-action@master
       with:
         host: ${{ secrets.SERVER_HOST }}
