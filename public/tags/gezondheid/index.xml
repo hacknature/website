@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gezondheid on Stichting HackNature</title>
-    <link>/tags/gezondheid/</link>
+    <link>https://hacknature.org/tags/gezondheid/</link>
     <description>Recent content in Gezondheid on Stichting HackNature</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2023 - HackNature</copyright>
-    <lastBuildDate>Thu, 08 Jun 2023 19:53:23 +0100</lastBuildDate><atom:link href="/tags/gezondheid/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jun 2023 19:53:23 +0100</lastBuildDate><atom:link href="https://hacknature.org/tags/gezondheid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meten van Luchtkwaliteit Binnen en Buiten</title>
-      <link>/projecten/project-0005-meten-van-luchtkwaliteit-binnen-en-buiten-met-sensoren-voor-menselijke-gezondheid-en-impact-op-de-natuur/</link>
+      <link>https://hacknature.org/projecten/project-0005-meten-van-luchtkwaliteit-binnen-en-buiten-met-sensoren-voor-menselijke-gezondheid-en-impact-op-de-natuur/</link>
       <pubDate>Thu, 08 Jun 2023 19:53:23 +0100</pubDate>
       
-      <guid>/projecten/project-0005-meten-van-luchtkwaliteit-binnen-en-buiten-met-sensoren-voor-menselijke-gezondheid-en-impact-op-de-natuur/</guid>
+      <guid>https://hacknature.org/projecten/project-0005-meten-van-luchtkwaliteit-binnen-en-buiten-met-sensoren-voor-menselijke-gezondheid-en-impact-op-de-natuur/</guid>
       <description>Meten van Luchtkwaliteit Binnen en Buiten Onze luchtkwaliteit is van essentieel belang voor zowel menselijke gezondheid als het behoud van de natuurlijke wereld. Door het gebruik van geavanceerde luchtkwaliteitssensoren, zowel binnen als buiten, kunnen we waardevolle gegevens verzamelen die ons helpen bij het begrijpen van de impact van luchtvervuiling op zowel mensen als het milieu.
 Binnenshuis brengen we aanzienlijk veel tijd door, en de kwaliteit van de lucht die we inademen is van groot belang voor onze gezondheid.</description>
     </item>

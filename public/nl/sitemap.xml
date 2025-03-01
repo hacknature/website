@@ -3,478 +3,492 @@
   
     
         <url>
-            <loc>/colofon/</loc>
+            <loc>https://hacknature.org/colofon/</loc>
             <lastmod>2021-02-01T23:23:23-01:00</lastmod>
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/colofon/"
+                        href="https://hacknature.org/en/colofon/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="/colofon/"
+                        href="https://hacknature.org/colofon/"
                         />
         </url>
     
   
     
         <url>
-            <loc>/</loc>
+            <loc>https://hacknature.org/</loc>
             <lastmod>2021-02-01T23:23:23-01:00</lastmod>
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/"
+                        href="https://hacknature.org/en/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="/"
+                        href="https://hacknature.org/"
                         />
         </url>
     
   
     
         <url>
-            <loc>/disclaimer/</loc>
+            <loc>https://hacknature.org/disclaimer/</loc>
             <lastmod>2021-02-01T23:23:23-01:00</lastmod>
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/disclaimer/"
+                        href="https://hacknature.org/en/disclaimer/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="/disclaimer/"
+                        href="https://hacknature.org/disclaimer/"
                         />
         </url>
     
   
     
         <url>
-            <loc>/projectenoverzicht/</loc>
+            <loc>https://hacknature.org/projectenoverzicht/</loc>
             <lastmod>2021-02-01T23:23:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/nieuwsoverzicht/</loc>
+            <loc>https://hacknature.org/nieuwsoverzicht/</loc>
             <lastmod>2023-11-03T23:23:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/privacyverklaring/</loc>
+            <loc>https://hacknature.org/privacyverklaring/</loc>
             <lastmod>2021-02-01T23:23:23-01:00</lastmod>
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/privacy-statement/"
+                        href="https://hacknature.org/en/privacy-statement/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="/privacyverklaring/"
+                        href="https://hacknature.org/privacyverklaring/"
                         />
         </url>
     
   
     
         <url>
-            <loc>/xml-sitemap/</loc>
+            <loc>https://hacknature.org/xml-sitemap/</loc>
             <lastmod>2021-02-03T23:23:23+01:00</lastmod>
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/xml-sitemap/"
+                        href="https://hacknature.org/en/xml-sitemap/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="/xml-sitemap/"
+                        href="https://hacknature.org/xml-sitemap/"
                         />
         </url>
     
   
     
         <url>
-            <loc>/contact/</loc>
+            <loc>https://hacknature.org/contact/</loc>
             <lastmod>2021-02-01T23:23:23-01:00</lastmod>
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/contact/"
+                        href="https://hacknature.org/en/contact/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="/contact/"
+                        href="https://hacknature.org/contact/"
                         />
         </url>
     
   
     
         <url>
-            <loc>/categories/</loc>
+            <loc>https://hacknature.org/nieuws/</loc>
+            <lastmod>2025-02-24T23:23:23+01:00</lastmod>
+        </url>
+    
+  
+    
+        <url>
+            <loc>https://hacknature.org/nieuws/nieuwsbericht-0001-website-in-ontwikkeling/</loc>
+            <lastmod>2025-02-24T23:23:23+01:00</lastmod>
+        </url>
+    
+  
+    
+        <url>
+            <loc>https://hacknature.org/categories/</loc>
             <lastmod>2023-06-08T19:53:23+01:00</lastmod>
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/categories/"
+                        href="https://hacknature.org/en/categories/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="/categories/"
+                        href="https://hacknature.org/categories/"
                         />
         </url>
     
   
     
         <url>
-            <loc>/tags/fijnstof/</loc>
+            <loc>https://hacknature.org/tags/fijnstof/</loc>
             <lastmod>2023-06-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/gezondheid/</loc>
+            <loc>https://hacknature.org/tags/gezondheid/</loc>
             <lastmod>2023-06-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/gezondheidsrisico/</loc>
+            <loc>https://hacknature.org/tags/gezondheidsrisico/</loc>
             <lastmod>2023-06-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/kooldioxide/</loc>
+            <loc>https://hacknature.org/tags/kooldioxide/</loc>
             <lastmod>2023-06-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/koolmonoxide/</loc>
+            <loc>https://hacknature.org/tags/koolmonoxide/</loc>
             <lastmod>2023-06-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/categories/luchtkwaliteit/</loc>
+            <loc>https://hacknature.org/categories/luchtkwaliteit/</loc>
             <lastmod>2023-06-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/luchtkwaliteitssensoren/</loc>
+            <loc>https://hacknature.org/tags/luchtkwaliteitssensoren/</loc>
             <lastmod>2023-06-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/luchtreiniging/</loc>
+            <loc>https://hacknature.org/tags/luchtreiniging/</loc>
             <lastmod>2023-06-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/luchtvervuiling/</loc>
+            <loc>https://hacknature.org/tags/luchtvervuiling/</loc>
             <lastmod>2023-06-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/projecten/project-0005-meten-van-luchtkwaliteit-binnen-en-buiten-met-sensoren-voor-menselijke-gezondheid-en-impact-op-de-natuur/</loc>
+            <loc>https://hacknature.org/projecten/project-0005-meten-van-luchtkwaliteit-binnen-en-buiten-met-sensoren-voor-menselijke-gezondheid-en-impact-op-de-natuur/</loc>
             <lastmod>2023-06-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/projecten/</loc>
+            <loc>https://hacknature.org/projecten/</loc>
             <lastmod>2023-06-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/</loc>
+            <loc>https://hacknature.org/tags/</loc>
             <lastmod>2023-06-08T19:53:23+01:00</lastmod>
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/tags/"
+                        href="https://hacknature.org/en/tags/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="/tags/"
+                        href="https://hacknature.org/tags/"
                         />
         </url>
     
   
     
         <url>
-            <loc>/tags/ventilatie/</loc>
+            <loc>https://hacknature.org/tags/ventilatie/</loc>
             <lastmod>2023-06-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/domotica/</loc>
+            <loc>https://hacknature.org/tags/domotica/</loc>
             <lastmod>2022-12-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/categories/domotica/</loc>
+            <loc>https://hacknature.org/categories/domotica/</loc>
             <lastmod>2022-12-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/projecten/project-0004-domotica-in-relatie-tot-klimaatverandering-en-natuurbehoud-in-de-tuin/</loc>
+            <loc>https://hacknature.org/projecten/project-0004-domotica-in-relatie-tot-klimaatverandering-en-natuurbehoud-in-de-tuin/</loc>
             <lastmod>2022-12-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/duurzaamheid/</loc>
+            <loc>https://hacknature.org/tags/duurzaamheid/</loc>
             <lastmod>2022-12-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/energieverbruik/</loc>
+            <loc>https://hacknature.org/tags/energieverbruik/</loc>
             <lastmod>2022-12-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/klimaatverandering/</loc>
+            <loc>https://hacknature.org/tags/klimaatverandering/</loc>
             <lastmod>2022-12-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/lichtvervuiling/</loc>
+            <loc>https://hacknature.org/tags/lichtvervuiling/</loc>
             <lastmod>2022-12-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/natuurbehoud/</loc>
+            <loc>https://hacknature.org/tags/natuurbehoud/</loc>
             <lastmod>2022-12-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/regenwaterbeheer/</loc>
+            <loc>https://hacknature.org/tags/regenwaterbeheer/</loc>
             <lastmod>2022-12-08T19:53:23+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/grondwater/</loc>
+            <loc>https://hacknature.org/tags/grondwater/</loc>
             <lastmod>2022-02-03T18:06:27+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/grondwatermonitoring/</loc>
+            <loc>https://hacknature.org/tags/grondwatermonitoring/</loc>
             <lastmod>2022-02-03T18:06:27+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/projecten/project-0003-innovatieve-capacitieve-grondwatermonitoring-met-lorawan-in-de-strijd-tegen-klimaatveranderin/</loc>
+            <loc>https://hacknature.org/projecten/project-0003-innovatieve-capacitieve-grondwatermonitoring-met-lorawan-in-de-strijd-tegen-klimaatveranderin/</loc>
             <lastmod>2022-02-03T18:06:27+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/irrigatie/</loc>
+            <loc>https://hacknature.org/tags/irrigatie/</loc>
             <lastmod>2022-02-03T18:06:27+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/categories/waterbeheer/</loc>
+            <loc>https://hacknature.org/categories/waterbeheer/</loc>
             <lastmod>2022-02-03T18:06:27+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/waterverbruik/</loc>
+            <loc>https://hacknature.org/tags/waterverbruik/</loc>
             <lastmod>2022-02-03T18:06:27+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/categories/bijen/</loc>
+            <loc>https://hacknature.org/categories/bijen/</loc>
             <lastmod>2021-12-02T20:13:11+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/bijenhouders/</loc>
+            <loc>https://hacknature.org/tags/bijenhouders/</loc>
             <lastmod>2021-12-02T20:13:11+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/bijenkorven/</loc>
+            <loc>https://hacknature.org/tags/bijenkorven/</loc>
             <lastmod>2021-12-02T20:13:11+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/bijenpopulaties/</loc>
+            <loc>https://hacknature.org/tags/bijenpopulaties/</loc>
             <lastmod>2021-12-02T20:13:11+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/imkers/</loc>
+            <loc>https://hacknature.org/tags/imkers/</loc>
             <lastmod>2021-12-02T20:13:11+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/projecten/project-0002-innovatieve-sensoren-voor-het-monitoren-van-de-gezondheid-van-bijenkorven-in-relatie-tot-menselijke-stressoren-en-klimaatverandering/</loc>
+            <loc>https://hacknature.org/projecten/project-0002-innovatieve-sensoren-voor-het-monitoren-van-de-gezondheid-van-bijenkorven-in-relatie-tot-menselijke-stressoren-en-klimaatverandering/</loc>
             <lastmod>2021-12-02T20:13:11+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/pesticiden/</loc>
+            <loc>https://hacknature.org/tags/pesticiden/</loc>
             <lastmod>2021-12-02T20:13:11+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/verstedelijking/</loc>
+            <loc>https://hacknature.org/tags/verstedelijking/</loc>
             <lastmod>2021-12-02T20:13:11+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/voedselvoorziening/</loc>
+            <loc>https://hacknature.org/tags/voedselvoorziening/</loc>
             <lastmod>2021-12-02T20:13:11+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/huisrenovatie/</loc>
+            <loc>https://hacknature.org/tags/huisrenovatie/</loc>
             <lastmod>2021-02-06T16:42:12+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/projecten/project-0001-innovatieve-vleermuiskast-monitoring-en-behoud-in-relatie-tot-huisrenovatie-en-isolatie/</loc>
+            <loc>https://hacknature.org/projecten/project-0001-innovatieve-vleermuiskast-monitoring-en-behoud-in-relatie-tot-huisrenovatie-en-isolatie/</loc>
             <lastmod>2021-02-06T16:42:12+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/isolatie/</loc>
+            <loc>https://hacknature.org/tags/isolatie/</loc>
             <lastmod>2021-02-06T16:42:12+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/monitoring/</loc>
+            <loc>https://hacknature.org/tags/monitoring/</loc>
             <lastmod>2021-02-06T16:42:12+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/tags/vleermuiskast/</loc>
+            <loc>https://hacknature.org/tags/vleermuiskast/</loc>
             <lastmod>2021-02-06T16:42:12+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/categories/vleermuizen/</loc>
+            <loc>https://hacknature.org/categories/vleermuizen/</loc>
             <lastmod>2021-02-06T16:42:12+01:00</lastmod>
         </url>
     
   
     
         <url>
-            <loc>/404/</loc>
+            <loc>https://hacknature.org/404/</loc>
             <lastmod>2021-02-01T23:23:23-01:00</lastmod>
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/404/"
+                        href="https://hacknature.org/en/404/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="/404/"
+                        href="https://hacknature.org/404/"
                         />
         </url>
     
   
     
         <url>
-            <loc>/offline/</loc>
+            <loc>https://hacknature.org/offline/</loc>
             <lastmod>2021-01-02T19:36:33-05:00</lastmod>
             <xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="/en/offline/"
+                        href="https://hacknature.org/en/offline/"
                         />
             <xhtml:link
                         rel="alternate"
                         hreflang="nl"
-                        href="/offline/"
+                        href="https://hacknature.org/offline/"
                         />
         </url>
     

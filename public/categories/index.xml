@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Stichting HackNature</title>
-    <link>/categories/</link>
+    <link>https://hacknature.org/categories/</link>
     <description>Recent content in Categories on Stichting HackNature</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright 2023 - HackNature</copyright>
-    <lastBuildDate>Thu, 08 Jun 2023 19:53:23 +0100</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jun 2023 19:53:23 +0100</lastBuildDate><atom:link href="https://hacknature.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Luchtkwaliteit</title>
-      <link>/categories/luchtkwaliteit/</link>
+      <link>https://hacknature.org/categories/luchtkwaliteit/</link>
       <pubDate>Thu, 08 Jun 2023 19:53:23 +0100</pubDate>
       
-      <guid>/categories/luchtkwaliteit/</guid>
+      <guid>https://hacknature.org/categories/luchtkwaliteit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Domotica</title>
-      <link>/categories/domotica/</link>
+      <link>https://hacknature.org/categories/domotica/</link>
       <pubDate>Thu, 08 Dec 2022 19:53:23 +0100</pubDate>
       
-      <guid>/categories/domotica/</guid>
+      <guid>https://hacknature.org/categories/domotica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Waterbeheer</title>
-      <link>/categories/waterbeheer/</link>
+      <link>https://hacknature.org/categories/waterbeheer/</link>
       <pubDate>Thu, 03 Feb 2022 18:06:27 +0100</pubDate>
       
-      <guid>/categories/waterbeheer/</guid>
+      <guid>https://hacknature.org/categories/waterbeheer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bijen</title>
-      <link>/categories/bijen/</link>
+      <link>https://hacknature.org/categories/bijen/</link>
       <pubDate>Thu, 02 Dec 2021 20:13:11 +0100</pubDate>
       
-      <guid>/categories/bijen/</guid>
+      <guid>https://hacknature.org/categories/bijen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vleermuizen</title>
-      <link>/categories/vleermuizen/</link>
+      <link>https://hacknature.org/categories/vleermuizen/</link>
       <pubDate>Sat, 06 Feb 2021 16:42:12 +0100</pubDate>
       
-      <guid>/categories/vleermuizen/</guid>
+      <guid>https://hacknature.org/categories/vleermuizen/</guid>
       <description></description>
     </item>
     
